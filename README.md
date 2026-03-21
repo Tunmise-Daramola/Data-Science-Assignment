@@ -1,2 +1,2 @@
-# FITI-Data-Science-Assignment
+# Data-Science-Assignment
 Assignment Submission and Assessment
